@@ -1,0 +1,12 @@
+Node.js website:
+    nodejs.org
+Node-RED installation command Windows:
+    npm install -g --unsafe-perm node-red
+Node-RED installation command Mac/Linux:
+    sudo npm install -g --unsafe-perm node-red
+Bootstrap 4 website:
+    getbootstrap.com
+Bootswatch website:
+    bootswatch.com
+Bootswatch CDNs:
+    bootstrapcdn.com/bootswatch/
